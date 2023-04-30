@@ -1,0 +1,86 @@
+.app{
+  width: 100vw;
+  height: auto;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #121212;
+  color: #FFFFFF;
+}
+
+.container{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.logo{
+  margin-top: 2rem;
+  padding: 2rem 0rem;
+}
+
+.empresaInfo{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.sociais{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7rem;
+}
+.btn{
+  width: 150px;
+  padding: 0.4rem 0rem;
+  cursor: pointer;
+  color: #FFFFFF;
+  border-radius: 8px;
+  border: none;
+}
+
+.footer{
+  padding-top: 2rem;
+}
+
+.instagram{
+  background: linear-gradient(225deg, #1400C8 0%, #B900B4 50.52%, #F50000 100%);
+}
+
+.spotfy{
+  background: #191414;
+  border: 1px solid #FFFFFF;
+}
+
+.facebook{
+  background: #1877F2;
+}
+
+.telegram{
+  background: #3FAEE8;
+}
+
+.tiktok{
+  background: #000000;
+    border: 1px solid #FFFFFF;
+}
+
+.youtube{
+  background: #000000;
+    border: 1px solid #FFFFFF;
+}
+
+.twitter{
+  background: #1DA1F2;
+}
