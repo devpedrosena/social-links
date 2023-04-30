@@ -1,7 +1,6 @@
 .app{
   width: 100vw;
-  height: auto;
-  min-height: 100vh;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11,6 +10,7 @@
 
 .container{
   width: 50%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -52,6 +52,7 @@
 
 .footer{
   padding-top: 2rem;
+  padding-bottom: 1rem;
 }
 
 .instagram{
@@ -83,4 +84,8 @@
 
 .twitter{
   background: #1DA1F2;
+}
+
+.whatsapp {
+  background: #038a30;
 }

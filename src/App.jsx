@@ -17,13 +17,14 @@ function App() {
             </p>
           </div>
           <div className="sociais">
-            <button className='btn instagram'><i class="fa-brands fa-instagram"></i> Instagram</button>
-            <button className='btn spotfy'><i class="fa-brands fa-spotify"></i> Spotfy</button>
-            <button className='btn facebook'><i class="fa-brands fa-facebook"></i> Facebook</button>
-            <button className='btn telegram'><i class="fa-brands fa-telegram"></i> Telegram</button>
-            <button className='btn tiktok'><i class="fa-brands fa-tiktok"></i> TikTok</button>
-            <button className='btn youtube'><i class="fa-brands fa-youtube"></i> YouTube</button>
-            <button className='btn twitter'><i class="fa-brands fa-twitter"></i> Twitter</button>
+            <button className='btn whatsapp'><i className="fa-brands fa-whatsapp fa-lg"></i> Whatsapp</button>
+            <button className='btn instagram'><i className="fa-brands fa-instagram"></i> Instagram</button>
+            <button className='btn spotfy'><i className="fa-brands fa-spotify"></i> Spotfy</button>
+            <button className='btn facebook'><i className="fa-brands fa-facebook"></i> Facebook</button>
+            <button className='btn telegram'><i className="fa-brands fa-telegram"></i> Telegram</button>
+            <button className='btn tiktok'><i className="fa-brands fa-tiktok"></i> TikTok</button>
+            <button className='btn youtube'><i className="fa-brands fa-youtube"></i> YouTube</button>
+            <button className='btn twitter'><i className="fa-brands fa-twitter"></i> Twitter</button>
           </div>
           <div className="footer">
             <p>©Pedro Sena 2023</p>
